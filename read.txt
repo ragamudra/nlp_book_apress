@@ -1,0 +1,4 @@
+####Refer the codes of the book here####
+1.Each chapter is in each zip file. Download and unzip
+2.Every code file has corresponding starting and ending listing numbers from the book
+2.Data files in Chapter 3 and Chapter 4 have been zipped. Please unzip and load inside python
